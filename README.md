@@ -1,19 +1,26 @@
 # CloR Wso Webshell (EDİTED)
+ ______________
+- [x] **WORDPRESS**
+- [x] **JOOMLA**
+- [x] **OPENCART**
+- [x] **ASP**
+- [x] **PHP**
 ### PHP , WORDPRESS , JOOMLA , OPENCART , ASP İLE KODLANMIŞ WEB SİTELERİNDE ÇALIŞMAKTADIR.
 ### PHP , WORDPRESS , JOOMLA , OPENCART , ASP IT WORKS ON WEBSITES CODED WITH.
 
 
-![kaln_cizgi](https://user-images.githubusercontent.com/101375754/158007476-05e11448-3162-4e77-887e-25c6d7db68c5.png)
+ ______________
    <table>
       <tr>
          <td>PASS: clor.wsp</td>
       </tr>
    </table>
    
-   ![kaln_cizgi](https://user-images.githubusercontent.com/101375754/158007476-05e11448-3162-4e77-887e-25c6d7db68c5.png)
+ ______________
    
    # SCREENSHOT
 ![photo_2022-03-09_03-29-52](https://user-images.githubusercontent.com/101375754/158007308-88368adc-2ff2-4853-b31d-3fb2f3fcc25e.jpg)
+ ______________
 ![photo_2022-03-09_03-29-51](https://user-images.githubusercontent.com/101375754/158007618-80389f3c-c487-481c-be30-4718976fd995.jpg)
 
 <table border="1">
